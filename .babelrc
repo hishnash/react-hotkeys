@@ -1,5 +1,4 @@
 {
-    "stage": 0,
-    "optional": ["runtime", "spec.protoToAssign", "es7.decorators"]
+    "stage": 3,
 }
 
